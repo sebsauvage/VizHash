@@ -47,7 +47,7 @@ There are implementation of VizHash in other languages:
 
 * Javascript version (by Sam & Max): https://github.com/sametmax/VizHash.js ([demo](http://jsfiddle.net/2nYsg/3/embedded/result/))
 * jQuery password plugin (by Sam & Max): https://github.com/sametmax/jQuery-Visual-Password ([demo](http://jsfiddle.net/TANLB/light/))
-* Java (by inouire):  http://codingteam.net/project/inouire_mini_projects/browse/VizHash4j
+* Java (by inouire):  https://github.com/inouire/VizHash4j
 
 Note that these visual hashes are *close* to the php implementation, but may have some differences. 
 
