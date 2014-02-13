@@ -91,7 +91,7 @@ function degrade($img,$direction,$color1,$color2)
 
 // Then use these integers to drive the creation of an image.
 $image = imagecreatetruecolor($width,$height);
-imageantialias($image, true); // Use antialiasing (if available)
+if(function_exists('imageantialias')) imageantialias($image, true); // Use antialiasing (if available)
 
 $r0 = getInt();$r=$r0;
 $g0 = getInt();$g=$g0;
