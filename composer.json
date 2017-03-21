@@ -2,7 +2,7 @@
     "name": "sebsauvage/vizhash",
     "description": "MD5 and SHA1 are common hashing function, which produce a binary or hex string. A visual hash works the same, but produces an image.",
     "type": "library",
-    "license": "zlib/libpng licence",
+    "license": "Zlib",
     "authors": [
         {
             "name": "https://github.com/sebsauvage/VizHash"
